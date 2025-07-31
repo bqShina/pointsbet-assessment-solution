@@ -8,4 +8,4 @@ For candidates, please follow the below points to complete the test:
   - Follow the instructions in the comment to complete the task
 - Once complete your solution, please submit the codebase to your GitHub and share the public link with our HR team
 
-Thank you for completing the code test with PointsBet.
+Thank you for completing the code test with PointsBet.# pointsbet-assessment-solution
