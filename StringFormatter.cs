@@ -20,15 +20,15 @@ namespace PointsBet_Backend_Online_Code_Test
         {
             if (items == null || quote == null || items.Length == 0) return "";
 
-            StringBuilder qry = new StringBuilder();
+            StringBuilder result = new StringBuilder();
 
             for (int i = 0; i < items.Length; i++)
             {
-                if (i > 0) qry.Append(", ")
-                qry.Append($"{quote}{items[i]}{quote}");
+                if (i > 0) result.Append(", ")
+                result.Append($"{quote}{items[i]}{quote}");
             }
             
-            return qry.ToString();
+            return result.ToString();
         }
     }
 
