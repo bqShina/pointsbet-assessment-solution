@@ -3,3 +3,4 @@
 - Correct the typo of the method name 'ToCommaSeparatedList'
 - Add an if statement to check if the input arguments are valid
 - Improve the for loop by removing the redundant code
+- Refactoring the name of stringBuilder to make the codebase easy to read
